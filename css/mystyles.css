@@ -1,0 +1,34 @@
+
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.col-auto{
+    font-style: bold;
+   
+}
+.col-auto{
+    color: rgb(204, 12, 218); 
+}
+.btn{
+    font-style: bold;
+}
+.contact-section bg-black{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: palevioletred;
+
+}
+.address{
+    color: palevioletred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.col-md-4{
+color: palevioletred;
+font-family: 'Times New Roman', Times, serif;
+}
+.navbar-brand{
+    color: palevioletred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
